@@ -18,6 +18,7 @@ Modul 2 Pengenalan RTOS Arduino
 A.	Tujuan 
 1.Mahasiswa mampu menggunakan library free RTOS pada arduino
 2.Mahasiswa dapat membandingkan & menganalisa perbandingan pemrograman arduino berbasiskan void loop () & void setup () dengan menggunakan library free RTOS arduino.
+
 B.	Alat & Bahan
 1.	Arduino UNO
 2.	Kit Sensor & Aktuator
