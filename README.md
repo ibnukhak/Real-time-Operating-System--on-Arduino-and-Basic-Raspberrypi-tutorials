@@ -14,9 +14,10 @@ B.	Alat & Bahan
 3.	Project board & jumper
 
 Modul 2 Pengenalan RTOS Arduino 
+
 A.	Tujuan 
 1.Mahasiswa mampu menggunakan library free RTOS pada arduino
-2.Mahasiswa dapat membandingkan & menganalisa perbandingan pemrograman arduino berbasiskan void loop ()    & void setup () dengan menggunakan library free RTOS arduino.
+2.Mahasiswa dapat membandingkan & menganalisa perbandingan pemrograman arduino berbasiskan void loop () & void setup () dengan menggunakan library free RTOS arduino.
 B.	Alat & Bahan
 1.	Arduino UNO
 2.	Kit Sensor & Aktuator
@@ -24,6 +25,7 @@ B.	Alat & Bahan
 4.	Library Free RTOS arduino
 
 MODUL 3 Pengenalan Rasberry PI
+
 A.	Tujuan 
 1.Mahasiswa dapat melakukan instalasi hardware pada Single Board Computer Raspberry Pi 
 2.Mahasiswa dapat melakukan instalasi Operating system  pada Single Board Computer Raspberry Pi
