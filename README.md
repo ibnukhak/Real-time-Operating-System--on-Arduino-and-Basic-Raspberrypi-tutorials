@@ -2,14 +2,27 @@
 This repository contains a tutorial for introducing RTOS (real-time operating system) on Arduino using the freeRTOS library and basic introduction to Raspberry Pi.
                                                 
 MODUL 1 Pemrograman arduino dasar
-
-A.	Tujuan
-1.	Praktikan mampu melakukan pemrograman arduino dasar
-2.	Praktikan dapat melakukan pengawatan I/O pada project board
-3.	Praktikan mampu mengidentifikasi masalah pada pemrograman dasar pada saat dimana parameter waktu menjadi penting .
-4.	Praktikan mengerti mengapa RTOS dibutuhkan pada pemrograman microcontroller.
+Modul 2 Pengenalan RTOS Arduino 
+MODUL 3 Pengenalan Rasberry PI
  
 B.	Alat & Bahan
+
 1.	Arduino UNO
 2.	Kit Sensor & Aktuator
 3.	Project board & jumper
+
+1.	Arduino UNO
+2.	Kit Sensor & Aktuator
+3.	Project board & jumper
+4.	Library Free RTOS arduino
+
+1.	SBC Raspberry Pi 
+2.	Kit Sensor & Aktuator
+3.	Project board & jumper
+4.	HDMI to VGA Converter
+5.	Power supply 5V
+6.	LCD Monitor
+7.	VGA Cable
+8.	Mouse
+9.	Keyboard
+10.	Akses internet
