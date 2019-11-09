@@ -1,7 +1,9 @@
 # Real-time-Operating-System-Arduino-Basic-Raspberrypi
 This repository contains a tutorial for introducing RTOS (real-time operating system) on Arduino using the freeRTOS library and basic introduction to Raspberry Pi.
                                                 
-1. MODUL 1 Pemrograman arduino dasar, Modul 2 Pengenalan RTOS Arduino , MODUL 3 Pengenalan Rasberry PI
+# MODUL 1 Pemrograman arduino dasar
+# MODUL 2 Pengenalan RTOS Arduino
+# MODUL 3 Pengenalan Rasberry PI
  
 Alat & Bahan
 
