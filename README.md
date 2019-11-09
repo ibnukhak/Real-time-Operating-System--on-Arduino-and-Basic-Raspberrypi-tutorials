@@ -3,7 +3,7 @@ This repository contains a tutorial for introducing RTOS (real-time operating sy
                                                 
 # MODUL 1 Pemrograman arduino dasar
 # MODUL 2 Pengenalan RTOS Arduino
-# MODUL 3 Pengenalan Rasberry PI
+# MODUL 3 Pengenalan RasPberry PI
  
 Alat & Bahan
 
